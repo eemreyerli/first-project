@@ -13,8 +13,8 @@ class App extends Component {
         <Navbar abcd = "Kullanicilar"/>
         <hr />
         <User 
-        name="Emre Yerli" 
-        salary="5000" 
+        name="Emre Yerli"
+        salary="5000"  
         department="bilisim" 
         sene="4 yillik"
         />
